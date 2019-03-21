@@ -1,4 +1,6 @@
 # Practica 1 Swap
+#### Realizado por Antonio Carlos Perea Parras 
+#### DNI:45944310Q
 
 ## * Instalación Ubuntu Server
 En la primera parte de esta práctica hemos procedido a instalarar **Ubuntu Server** en dos máquinas virtuales (En mi caso con Virtual Box). En esta instalación hay que prestar importancia marcar la opción de **LAMP** que nos instalará **Apache, PHP y MySQL**
